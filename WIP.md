@@ -1,0 +1,11 @@
+My daily apps from SetApp:
+    ‣ HazeOver (dims any window without focus by a simply-configurable amount)
+    ‣ Mosaic (window position/size management), TextSoap (quick text-cleansing recipes)
+    ‣ Timing (track time spent in all apps/paths for client billing)
+    ‣ Marked (Markdown editor with live preview)
+    ‣ Paw
+
+I also use:
+    ‣ Gemini (dupe file finder)
+    ‣ Chronicle (bill organizer)
+    ‣ NetSpot (wifi analyzer)
